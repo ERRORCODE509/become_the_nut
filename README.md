@@ -1,2 +1,2 @@
 # become_the_nut
-Reject fungus, return to Nut
+Reject fungus, return to Nut.
