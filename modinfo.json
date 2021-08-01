@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "ident": "become_the_nut",
+    "name": "become_the_nut",
+    "authors": [ "ERROR_CODE" ],
+    "description": "Shed your weak, human form and become one with the pine.",
+    "category": "items",
+    "dependencies": [ "dda", "survive_the_nut" ]
+  }
+]
