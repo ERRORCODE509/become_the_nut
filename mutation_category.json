@@ -3,7 +3,6 @@
     "type": "mutation_category",
     "id": "PINE_MUTATION",
     "name": "Pine",
-    "wip": true,
     "threshold_mut": "THRESH_PINE_MUTATION",
     "mutagen_message": "For a brief moment, you feel enlightened.",
     "iv_message": "Your body is cleansed of heresy.",
